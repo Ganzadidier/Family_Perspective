@@ -40,7 +40,7 @@ function searchResources() {
 // JavaScript for slideshow
 let currentSlide = 0;
 const slides = document.querySelectorAll('.slide');
-const slideInterval = 5000; // 5 seconds per slide
+const slideInterval = 2000; // 5 seconds per slide
 
 function showSlide(index) {
     slides.forEach((slide, i) => {
