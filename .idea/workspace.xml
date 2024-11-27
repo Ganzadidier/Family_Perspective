@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c47ebd0c-9428-4036-a48c-3f4ea4784be4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles.css" afterDir="false" />
+    <list default="true" id="3ad7e702-21e4-4617-97f8-9c4c57977dc4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/marriedCouples.html" beforeDir="false" afterPath="$PROJECT_DIR$/marriedCouples.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,17 +26,26 @@
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2oTcX30Vm8T0WkTNedaRRGvFVlm" />
+  <component name="ProjectId" id="2pObGdomXRYLw636MhiMDJzkbMG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Podcast.html.executor": "Run",
+    "JavaScript Debug.about_us.html.executor": "Run",
     "JavaScript Debug.couples.html.executor": "Run",
     "JavaScript Debug.family_perspectives.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.marriedCouples.html.executor": "Run",
+    "JavaScript Debug.parenting.html.executor": "Run",
+    "JavaScript Debug.relationships.html.executor": "Run",
+    "JavaScript Debug.resources.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Master",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/highe/Family_Perspective",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,13 +64,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c47ebd0c-9428-4036-a48c-3f4ea4784be4" name="Changes" comment="" />
-      <created>1730897044234</created>
+      <changelist id="3ad7e702-21e4-4617-97f8-9c4c57977dc4" name="Changes" comment="" />
+      <created>1732639982891</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1730897044234</updated>
-      <workItem from="1730897046118" duration="18000" />
-      <workItem from="1731487246163" duration="3319000" />
+      <updated>1732639982891</updated>
+      <workItem from="1732639985104" duration="107000" />
+      <workItem from="1732640105062" duration="958000" />
+      <workItem from="1732641672291" duration="6441000" />
+      <workItem from="1732716782244" duration="632000" />
     </task>
     <servers />
   </component>
